@@ -98,14 +98,15 @@ body{
 
 .three{
     height: 23px;
-    background-color: #86c775;
+    background-color:  #86c775;
+    background: linear-gradient(hsl(108, 42%, 62%),hsla(130, 100%, 24%, 0.727),hsla(108, 56%, 34%, 0.584), rgba(16, 156, 16, 0.667) );
     text-align: right;
 }
 
 .three a{
     color: #fff;
     font-size: 11px;
-    padding-right: 5px;
+    padding-right: 10px;
     text-decoration: none;
 }
 
